@@ -1,0 +1,45 @@
+.login-icon {
+    width: 64px;
+    height: 64px;
+}
+
+.wrap-login-icon {
+    padding-top: 40px;
+    text-align: center;
+    color: cadetblue;
+}
+
+.wrap-copy-text {
+    color: cadetblue;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.wrap-form-login form {
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-form-login {
+    width: 208px;
+    height: 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+button {
+    width: 213px;
+    height: 45px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 4px;
+    margin: 5px;
+    background-color: deepskyblue;
+    color: white;
+}
