@@ -60,3 +60,8 @@ button {
 .text-3 {
     color: deepskyblue;
 }
+.remember-button {
+    text-align: center;
+    color: #7a7a7a;
+    padding-top: 10px;
+}
